@@ -14,6 +14,7 @@ int main(){
                 cout<<" ";
             }
         }
+        
 
         for(j=1;j<=n-i;++j){
             char ch='A';
